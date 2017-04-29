@@ -1,6 +1,6 @@
 # Code Book
 ## Human Activity Recognition Using Smartphones Data Set
-This code book describes the data sets, variables and the processing required to create the tidy data set.
+This code book describes the data sets, variables and the processing required to create the [tidy](https://github.com/NidaBat/CourseraGettingAndCleaningDataProject/blob/master/tidy.txt) data set.
 
 ### Overview
 30 volunteers performed 6 different activities while carring a smartphone. The smartphone captured various data about their movements. 
